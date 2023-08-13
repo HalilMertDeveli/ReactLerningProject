@@ -6,7 +6,7 @@ import './index.css';
 class Square extends React.Component{
     render(){
         return (
-            <button className='buttonDesing'>
+            <button className='square'>
                 {console.log("clicked")}
                 Dont clik me 
             </button>
